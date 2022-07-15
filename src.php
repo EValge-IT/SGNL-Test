@@ -5,7 +5,7 @@ header("Access-Control-Allow-Methods: GET");
 header("Content-Type: application/json; charset=UTF-8");
 
 
-// Declaring constant variables which are used to connnect to the database.
+// Declaring constant variables which are used to connnect to the database
 class Constants
 {
     static $DB_SERVER="localhost";
